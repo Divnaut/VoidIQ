@@ -33,3 +33,16 @@ _Figure: VoidIQ's hierarchical communication topology with slave clusters, maste
   Designed to scale from small warehouses to multi-site industrial operations with minimal reconfiguration.
 
 ---
+
+## License
+
+This project is licensed for non-commercial, academic, and personal use only.  
+Commercial use is strictly prohibited without prior written permission.  
+See the [`LICENSE`](LICENSE) file for full terms.
+
+---
+
+## Author
+
+Developed by Divyanshu Nautiyal 
+Contact: divyanshunautiyal2003@gmail.com
